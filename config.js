@@ -1,6 +1,6 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
+    introTitle: '🖐🖐🖐 iu cj nhìuuuuuu nhìuuuuuuuuuuu 🥰🥰🥰🥰🥰 ! 🖐🖐🖐',
     introDesc: `Em có điều này muốn hỏi Chị, Chị nhớ phải trả lời thật lòng nha`,
     btnIntro: 'OK',
     title: 'Chị biết  thích Em phải không phải không ? 😙',
